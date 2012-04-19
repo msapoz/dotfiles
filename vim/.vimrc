@@ -8,3 +8,5 @@ set background=dark
 "Font
 set gfn=Monaco:h12
 
+"Line Numbers
+set number
